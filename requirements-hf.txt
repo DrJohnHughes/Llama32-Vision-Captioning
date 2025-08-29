@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+numpy
+matplotlib
+pillow
+requests
+transformers>=4.44.0
+accelerate>=0.33.0
+safetensors
+pynvml

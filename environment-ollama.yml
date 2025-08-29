@@ -1,0 +1,12 @@
+name: llama32-ollama
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - numpy
+  - pillow
+  - requests
+  - pip
+  - pip:
+      - ollama>=0.3.0

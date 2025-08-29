@@ -1,0 +1,23 @@
+name: llama32-hf
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - numpy
+  - matplotlib
+  - pillow
+  - requests
+  - pytorch=2.5
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=12.1
+  - pip
+  - pip:
+      - transformers>=4.44.0
+      - accelerate>=0.33.0
+      - safetensors
+      - pynvml
+      - bitsandbytes 

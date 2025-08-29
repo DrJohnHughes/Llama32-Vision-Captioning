@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# envs/secrets
+.venv/
+env/
+venv/
+*.env
+
+# local data/artifacts
+data/
+outputs/
+runs/
+wandb/
