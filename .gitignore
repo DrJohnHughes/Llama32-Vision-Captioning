@@ -15,3 +15,4 @@ data/
 outputs/
 runs/
 wandb/
+Llama32-Vision-Captioning-Ollama.ipynb
