@@ -3,6 +3,11 @@
 
 **LLaMA 3.2 Vision** is an open source multimodal language model with excellent image and text alignment making it perfect for detailed image captioning tasks. Here we show that the fine-tuned quantized **Ollama** version which takes up 8 GB of VRAM is particularly well suited to supporting complex multimodal tasks that can be run on a home computer without requiring a paid GPT service.
 
+
+
+### 90s Loom demo
+[![▶ Loom Demo)](assets/demos/captioning-thumb.png)](https://www.loom.com/share/29c3ac8b793947148629cb4a20171296)
+
 #### LLaMA 3.2 Vision (Ollama) captioning example
 
 ![Courting foxes](assets/Courting-foxes.jpg)
